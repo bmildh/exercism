@@ -1,6 +1,4 @@
-# Exercism Ruby Track
-
-These are my exercism's, trying to learn fsharp.
+# These are my exercism's, trying to learn fsharp.
 ## Table of Contents
 - [Setup](#setup)
 - [Anatomy of an Exercise](#anatomy-of-an-exercise)
