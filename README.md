@@ -30,5 +30,5 @@ A few exercises use a custom test template:
 
 ## Running the Tests
 
-Run the tests using `dotnet test`, rather than 
+Run the tests using `dotnet test`
 
