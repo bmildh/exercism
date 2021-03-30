@@ -29,3 +29,6 @@ fsharp/two-fer/README.md
 fsharp/two-fer/TwoFer.fsproj
 fsharp/two-fer/bin/
 fsharp/two-fer/obj/
+
+.fake
+.ionide
