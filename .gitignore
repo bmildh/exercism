@@ -13,7 +13,12 @@ fsharp/hello-world/README.md
 fsharp/hello-world/bin/
 fsharp/hello-world/obj/
 
-#fsharp/isogram/
+fsharp/isogram/.config
+fsharp/isogram/.exercism/
+fsharp/isogram/Isogram.fsproj
+fsharp/isogram/README.md
+fsharp/isogram/bin
+fsharp/isogram/obj
 
 fsharp/pangram/.config/
 fsharp/pangram/.exercism/
