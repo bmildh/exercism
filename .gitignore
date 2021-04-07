@@ -38,7 +38,8 @@ fsharp/two-fer/obj/
 
 fsharp/phone-number/.config
 fsharp/phone-number/.exercism/
-fsharp/phone-number/Isogram.fsproj
+fsharp/phone-number/.ionide/
+fsharp/phone-number/PhoneNumber.fsproj
 fsharp/phone-number/README.md
 fsharp/phone-number/bin/
 fsharp/phone-number/obj/
