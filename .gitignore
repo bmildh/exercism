@@ -27,6 +27,7 @@ fsharp/pangram/Pangram.fsproj
 fsharp/pangram/README.md
 fsharp/pangram/bin/
 fsharp/pangram/obj/
+
 fsharp/two-fer/.config/
 fsharp/two-fer/.exercism/
 fsharp/two-fer/.ionide/
@@ -34,6 +35,20 @@ fsharp/two-fer/README.md
 fsharp/two-fer/TwoFer.fsproj
 fsharp/two-fer/bin/
 fsharp/two-fer/obj/
+
+fsharp/phone-number/.config
+fsharp/phone-number/.exercism/
+fsharp/phone-number/Isogram.fsproj
+fsharp/phone-number/README.md
+fsharp/phone-number/bin/
+fsharp/phone-number/obj/
+
+fsharp/twelve-days/.config
+fsharp/twelve-days/.exercism/
+fsharp/twelve-days/Isogram.fsproj
+fsharp/twelve-days/README.md
+fsharp/twelve-days/bin/
+fsharp/twelve-days/obj/
 
 .fake
 .ionide
